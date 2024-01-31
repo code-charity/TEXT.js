@@ -1,6 +1,6 @@
 ### TEXT.js 
 'Vision' (back to the roots actually):
-I should be possible to browse pure hypertext. GUI &amp; <br> Media, images, Layout are optional (visually more intrusive /less voluntary than text). 
+I should be possible to browse pure hypertext. Media & GUI  are optional (visually more intrusive /less voluntary than text). 
 
 ### Compare /Combine:
 #### 1. [/public-apis/public-apis](https://github.com/public-apis/public-apis)   <br> 2. [/mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)  3.  [/Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis )  4. ... 5. ... 6. ...
