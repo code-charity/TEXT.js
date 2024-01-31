@@ -13,13 +13,13 @@ _(All of which can be without capability or intention to be untracked or unoffic
 
 | mostly.. | |   |  <h5> Local |
 |-|-|-|-|
-|<h3> ..Text | Public | Google.com Twitter.com wikipedia.org Reddit.com  Quora.com  Medium.com Reuters.com  linkedin.com  bing.com yahoo.com weather.com  msn.com  duckduckgo.com urbandictionary.com news.ycombinator.com | baidu.com yandex.ru naver.com news.yahoo.co.jp   |
+|<h3> ..Text | Public | Google.com Twitter.com wikipedia.org Reddit.com Mastodon.social Quora.com  Medium.com Reuters.com  linkedin.com  bing.com yahoo.com weather.com  msn.com  duckduckgo.com urbandictionary.com news.ycombinator.com | baidu.com yandex.ru naver.com news.yahoo.co.jp   |
 | | Shopping  | amazon.com ebay.com craiglist.org etsy.com |  aajtak.in ok.ru  |
 |  | Personal | web.whatsapp.com  Messenger.com  web.Telegram.org Translate.Google.com  mail.google.com live.com office.com zoom.us samsung.com  |  qq.com mail.ru globo.com docomo.ne.jp   |
 |<h5> ..Media| Music | Spotify.com   Music.Apple.com   Music.YouTube.com  Bandcamp.com Shazam.com | |
 || Photo | instagram.com  pinterest.com  Imgur |   |
 || Video | YouTube.com netflix.com TikTok Twitch.tv IMDb.com roblox.com |  bilibili.com |
-| <h4> ..Mix | Social | Facebook.com Discord.com Mastodon.social fandom.com |   vk.com |
+| <h4> ..Mix | Social | Facebook.com Discord.com fandom.com |   vk.com |
 
 #### Compare:  
 
