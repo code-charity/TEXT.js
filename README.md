@@ -23,6 +23,7 @@ _(All of which can be without capability or intention to be untracked or unoffic
 
 #### Compare:  
  - RSS & RSS generators
+ - [/w3c/webextensions/issues/506 Firefox' webRequest.FilterResponse...for all browsers. Against waste](https://github.com/w3c/webextensions/issues/506)  
  - **Text browsers**: [elinks](https://github.com/rkd77/elinks/)   & [links](https://github.com/spartrekus/links2)  ;   - [lynx](https://github.com/ThomasDickey/lynx-snapshots) ;   - [emacs/w3m](https://github.com/emacs-w3m/emacs-w3m) & emacs/w3
     - [browsh](https://github.com/browsh-org/browsh) (newer, based on Firefox headless(=without GUI) )
  - /**Browser automation**: Puppeteer (Node.js),  Playwright (.js/.py):
