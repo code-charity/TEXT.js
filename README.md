@@ -22,12 +22,13 @@ _(All of which can be without capability or intention to be untracked or unoffic
 | <h4> ..Mix | Social | Facebook.com Discord.com fandom.com |   vk.com |
 
 #### Compare:  
-
+ - RSS & RSS generators
  - **Text browsers**: [elinks](https://github.com/rkd77/elinks/)   & [links](https://github.com/spartrekus/links2)  ;   - [lynx](https://github.com/ThomasDickey/lynx-snapshots) ;   - [emacs/w3m](https://github.com/emacs-w3m/emacs-w3m) & emacs/w3
     - [browsh](https://github.com/browsh-org/browsh) (newer, based on Firefox headless(=without GUI) )
  - /**Browser automation**: Puppeteer (Node.js),  Playwright (.js/.py):
  - /'Web-testing': Selenium, iMacros  ( _keyboard browsing: Vimium_ )
- - /'Web-scraping': MechanicalSoup (.py) (built on "Beautiful Soup");  - "Web crawling": Scrapy (.py), wget, curl,..
+ - /'Web-scraping': MechanicalSoup (.py) (built on "Beautiful Soup"); "Web crawling": Scrapy (.py), wget, curl & commercial ones
+
 
 
 
