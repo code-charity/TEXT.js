@@ -1,15 +1,12 @@
 ### TEXT.js 
-'Vision' (back to the roots actually):  
-Browse pure hypertext. GUI &amp; <br> images are optional (visually more intrusive /less voluntary than text)  
-
-( <i>**.js** because:
--Several popular websites often use complicated JS constructions.
-<br>-Everyone with a  browser can run it personally without installing anything or logging in again where logged-in already.
-<br>-It can be part of any other Macro, or shedules task/cronjob/autostart.  Or any website, browser extension or app.</i>  )
+'Vision' (back to the roots actually):
+I should be possible to browse pure hypertext. GUI &amp; <br> Media, images, Layout are optional (visually more intrusive /less voluntary than text). 
 
 ### Compare /Combine:
 #### 1. [/public-apis/public-apis](https://github.com/public-apis/public-apis)   <br> 2. [/mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)  3.  [/Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis )  4. ... 5. ... 6. ...
 _(All of which can be without capability or intention to be untracked or unofficial let alone avoiding subscription fees: if a user didn't pay already, Commercial servers can equally include text-ads (instead of photo/media. compare google adsense) (Besides that private information belongs to users and serving costs are virtually zero compareable to broadcast and AI should state sources even for free public information anyways.))_
+
+#### >=50% of the web:
 
 | mostly.. | |   |  <h5> Local |
 |-|-|-|-|
@@ -30,7 +27,11 @@ _(All of which can be without capability or intention to be untracked or unoffic
  - /'Web-testing': Selenium, iMacros  ( _keyboard browsing: Vimium_ )
  - /'Web-scraping': MechanicalSoup (.py) (built on "Beautiful Soup"); "Web crawling": Scrapy (.py), wget, curl & commercial ones
 
+---
 
-
+( <i>**.js** because:
+-Popular websites often use complicated JS constructions.
+<br>- Everyone with a  browser can run it personally without installing anything or logging in again where logged-in already.
+<br>- It can be part of any other browser extension or app or website or marcro/bookmarklet or called as a sheduled task/cronjob/autostart. </i>  )
 
 
