@@ -1,6 +1,7 @@
 ### TEXT.js 
 'Vision' (back to the roots actually):
-We should be able to view browse pure (hyper)text. Media & GUI  are optional (visually more intrusive /less voluntary than text). 
+One should be able to view browse pure (hyper)text at times. "Console mode" 
+Media & GUI  are optional (visually more intrusive /less efficient and voluntary than text only). 
 
 ### Compare /Combine:
 #### 1. [/public-apis/public-apis](https://github.com/public-apis/public-apis)   <br> 2. [/mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)  3.  [/Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis )  4. ... 5. ... 6. ...
