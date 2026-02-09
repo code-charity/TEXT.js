@@ -5,7 +5,6 @@ Media & GUI  are optional (visually more intrusive /less efficient and voluntary
 
 ### Compare /Combine:
 #### 1. [/public-apis/public-apis](https://github.com/public-apis/public-apis)   <br> 2. [/mendel5/alternative-front-ends](https://github.com/mendel5/alternative-front-ends)  3.  [/Rolstenhouse/unofficial-apis](https://github.com/Rolstenhouse/unofficial-apis )  4. ... 5. ... 6. ...
-_(All of which can be without capability or intention to be untracked or unofficial let alone avoiding subscription fees: if a user didn't pay already, Commercial servers can equally include text-ads (instead of photo/media. compare google adsense) (Besides that private information belongs to users and serving costs are virtually zero compareable to broadcast and AI should state sources even for free public information anyways.))_
 
 #### >=50% of the web:
 
